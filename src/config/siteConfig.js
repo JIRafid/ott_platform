@@ -1,5 +1,3 @@
-// src/config/siteConfig.js
-const siteConfig = {
-};
+const siteConfig = {}
 
 export default siteConfig;

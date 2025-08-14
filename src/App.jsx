@@ -27,8 +27,11 @@ function App() {
       </div> */}
 
       <BottomNavBar />
+      <Footer />
     </div>
+  );
   );
 }
 
 export default App;
+
