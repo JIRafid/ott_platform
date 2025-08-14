@@ -1,6 +1,7 @@
 import { Routes, Route } from "react-router-dom";
 import TopNavbar from "./Components/layout/NavBar/TopNavbar";
 import BottomNavBar from "./Components/layout/NavBar/BottomNavBar";
+import Footer from "./Components/layout/Footer";
 
 /* // Pages
 import Home from "./Pages/Home/Home";
@@ -29,7 +30,6 @@ function App() {
       <BottomNavBar />
       <Footer />
     </div>
-  );
   );
 }
 
